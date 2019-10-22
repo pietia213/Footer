@@ -1,0 +1,22 @@
+.kontent {background-color: #c4e3b9;
+	
+}
+.header{
+	float: right;
+width: 500px;
+height: 100px;
+margin-left:500px;
+background-color: #709dc6;
+}
+.anchorek{
+margin-top: 50px;
+
+}
+.footer{
+	position:absolute;
+		bottom:0;
+		width:100%;
+		height:60px;		/* Wysokość stopki */
+		background:#879fcf;
+;
+}
